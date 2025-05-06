@@ -52,4 +52,4 @@ audio.export("output.mp3")
 
 ## License
 
-MIT License
+Unlicense license
