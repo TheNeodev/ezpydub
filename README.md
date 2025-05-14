@@ -1,6 +1,6 @@
  # ezpydub
 
-A simplified interface for `pydub`, making audio manipulation easier for Python 3.11.
+A simplified interface for `pydub`, making audio manipulation easier for Python 3.10+.
 
 ## Installation
 
@@ -46,7 +46,7 @@ audio.export("output.mp3")
 
 ## Requirements
 
-- Python 3.11
+- Python 3.10 or newer
 - pydub
 - ffmpeg-python
 
